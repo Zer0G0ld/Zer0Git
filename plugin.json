@@ -1,0 +1,8 @@
+{
+  "name": "Zer0Git",
+  "version": "1.0.0",
+  "description": "Plugin para controle de versão com Git no Acode",
+  "main": "main.js",
+  "styles": "main.css",
+  "icon": "termx.jpg"
+}
